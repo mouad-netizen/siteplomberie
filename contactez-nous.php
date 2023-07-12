@@ -87,10 +87,9 @@
 							<li class=nav-link style=--i:.6s>
 								<a href="index.html"><strong>ACCUEIL</strong></a>
 							</li>
-							<li class=nav-link style=--i:.8s>
-								<a href=#><strong>A PROPOS</strong><i class="fas fa-caret-down"></i></a>
-								
-							</li>
+						 <li class=nav-link style=--i:.6s>
+                            <a href="assainissement.html"><strong>A PROPOS</strong></a>
+                        </li>
 							
 							<li class=nav-link style=--i:1.4s>
 								<a href=#><strong>SERVICES</strong><i class="fas fa-caret-down"></i></a>
